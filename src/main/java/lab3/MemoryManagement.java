@@ -1,4 +1,4 @@
-package aaaaaaaaaaaaaaaaa;// The main MemoryManagement program, created by Alexander Reeder, 2000 Nov 19
+package lab3;// The main MemoryManagement program, created by Alexander Reeder, 2000 Nov 19
 
 import java.io.*;
 //import ControlPanel;

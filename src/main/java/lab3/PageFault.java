@@ -1,4 +1,4 @@
-package aaaaaaaaaaaaaaaaa;/* It is in this file, specifically the replacePage function that will
+package lab3;/* It is in this file, specifically the replacePage function that will
    be called by MemoryManagement when there is a page fault.  The 
    users of this program should rewrite PageFault to implement the 
    page replacement algorithm.

@@ -1,4 +1,4 @@
-package aaaaaaaaaaaaaaaaa;
+package lab3;
 
 public class Instruction {
     public String inst;

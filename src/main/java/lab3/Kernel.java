@@ -1,4 +1,4 @@
-package aaaaaaaaaaaaaaaaa;
+package lab3;
 
 import java.lang.Thread;
 import java.io.*;

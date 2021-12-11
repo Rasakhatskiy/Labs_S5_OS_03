@@ -1,6 +1,4 @@
-package aaaaaaaaaaaaaaaaa;
-
-import java.util.Vector;
+package lab3;
 
 public class Virtual2Physical {
     public static int pageNum(long memaddr, int numpages, long block) {
